@@ -8,7 +8,6 @@ class EmailAddressParser
   
   def initialize(email)
     @csv_emails = email
-    
   end
   
   def parse
